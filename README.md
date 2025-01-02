@@ -2,6 +2,9 @@
 
 StockSight AI is a comprehensive stock analysis platform that combines multi-agent AI systems with real-time market data to provide detailed insights, news analysis, and trading recommendations. The platform features both a FastAPI backend for intelligent stock analysis and a modern React frontend for data visualization.
 
+![dashboard](images/stock-dashboard.png)
+
+
 ## 🌟 Features
 
 - **Real-time Stock Analysis**
